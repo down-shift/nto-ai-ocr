@@ -26,4 +26,8 @@ There are two OCR models in this repository:
 Both models were trained on the dataset consisting of >100k word instances. After performance estimation, CRNN model was chosen.
 
 # Files:
-- 
+- segmentation.ipynb: Mask-RCNN model
+- recognition.ipynb: CRNN model
+- transformer.ipynb: Transformer model
+- to_gray.ipynb: utility for converting images into grayscale and enhancing contrast
+- ocr_model.ipynb: pipeline for Mask-RCNN and CRNN
