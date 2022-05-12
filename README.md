@@ -15,7 +15,7 @@ Then, each word would be recognized by OCR algorithm:
 # Segmentation
 
 We used Mask-RCNN X101 32x8d FPN 3x Architecture from Detectron2 model zoo for instance segmentation. 
-The performance was estimated by F1-score metrics. The evaluation result we got was 0.89.
+The performance was estimated by F1-score metrics. The evaluation result we got was 0.88.
 
 # OCR
 
